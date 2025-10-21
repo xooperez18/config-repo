@@ -1,0 +1,6 @@
+spring:
+application:
+name:microservicio-cliente
+mensaje:"config-server"
+server:
+port:8081
