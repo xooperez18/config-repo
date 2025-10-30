@@ -45,7 +45,7 @@ eureka:
     preferIpAddress: true
  
 jwt:
-  secret: 
+  secret: SjFkWjI5ajFic2RzNTZjMnl6ZHNkNHU4MjFlNGY3ZzZoc2Q3ZDhkM2l3cTB2NHV3Z3M5cmZjN2E0cTNyMzB1
  
 server:
   port: 8007
