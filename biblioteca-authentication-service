@@ -2,7 +2,7 @@ server:
  port: 8009
 spring:
  application:
-  name: bilioteca-authentication-service
+  name: biblioteca-authentication-service
  datasource:
     url: jdbc:oracle:thin:@localhost:1521:xe
     username: biblio
