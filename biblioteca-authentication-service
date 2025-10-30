@@ -21,7 +21,7 @@ jwt:
 eureka:
   client:
     serviceUrl:
-     defaultZone: http://localhost:8161/eureka/
+     defaultZone: http://localhost:8006/eureka/
     registerWithEureka: true
     fetchRegistry: true
     healthcheck:
